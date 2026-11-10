@@ -1,11 +1,11 @@
-#success-click-btn{
+.success-click-btn{
     background-color: black;
     color: white;
 }
-#wrong-click-btn{
+.wrong-click-btn{
     background-color: yellow;
 }
-.button{
+.success-click-btn, .wrong-click-btn{
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
