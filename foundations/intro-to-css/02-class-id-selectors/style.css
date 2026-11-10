@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+.font-size-24{
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+/**
+1. CSS Fonts one word no need to ""
+2. Mistake: I overlooked that third and fourth class have same 24px, so i merged them together as font-size-24 class, because at first i overlooked and did seperate stuff.
+**/
