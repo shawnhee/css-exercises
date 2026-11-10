@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/**
+Lesson learnt:
+for descendant child : each selector is seperated with space
+for grouping selectors: each selector is seperated with comma
+for chain selectors: no seperation between selectors
+**/
